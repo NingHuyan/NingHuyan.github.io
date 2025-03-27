@@ -55,7 +55,6 @@
 <img src="OptimusPrime_8_opt.gif" width="100%" height="100%" align='middle' style='width:800px;height:800px'/>
 <img src="StarScream_4_opt_2.gif" width="100%" height="100%" align='middle' style='width:800px;height:800px'/>
 
-[![bruinxiong's GitHub stats](https://github-readme-stats.vercel.app/api?username=bruinxiong)](https://github.com/anuraghazra/github-readme-stats)
 ## News and Activities:
 
 **Mar 2025:** One paper titled with **Cross-Rejective Open-Set SAR Image Registration** is accepted by ***CVPR 2025***.
