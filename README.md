@@ -41,31 +41,12 @@
 
 ## 奖项:
 
-* Achieved **[First Place Award](https://www.aicitychallenge.org/?page_id=13)** on Track2: Anomaly Detection on NVIDIA AI CITY CHALLENGE from **CVPR 2018 workshop**. (**[Team 15](https://github.com/bruinxiong/xionglin.github.io/blob/master/NVIDIA_AI_CITY_CHALLENGE.jpg)**).
 
-* Achieved **Gold prize[<sup>1</sup>](https://github.com/bruinxiong/xionglin.github.io/blob/master/Gold_Award.jpg)<sup>,</sup>[<sup>2</sup>](https://github.com/bruinxiong/xionglin.github.io/blob/master/PTS_2017_Gold_award_CTO.jpg)** award in Panasonic Technology Symposium **(PTS 2017)** held by Headquarter of Panasonic, Osaka. **(No.1 of 21 competitors, 4.8%)**
+## 联系方式: 
 
-* Achieved the **World's most accurate** Face Recognition based on the IJB-A dataset provided by NIST and obtained an **[award prize](https://github.com/bruinxiong/xionglin.github.io/blob/master/Award_Panasonic_SG.pdf)** from Panasonic R&D Center Singapore, 2017
+**Email:** n-hy@mail.tsinghua.edu.cn， ninghuyan1121@gmail.com
 
-* Achieved the **[First Place Award](https://github.com/bruinxiong/xionglin.github.io/blob/master/Award_MS.pdf)** on Track1: Recognizing One Million Celebrities(with external Data) from **ICCV 2017 workshop**.
-
-## CV:
-
-More detailed information can be found in my **[full_CV](https://github.com/bruinxiong/xionglin.github.io/blob/master/XiongLinCV_full_v4.pdf)**.
-
-## Hobbies:
-
-Photography, [Travel](https://github.com/bruinxiong/xionglin.github.io/blob/master/Shin_Yokohama.jpg), Figures collection ([Saint_Seiya](https://github.com/bruinxiong/xionglin.github.io/blob/master/Saint_Seiya.jpg), [Mazinger](https://github.com/bruinxiong/xionglin.github.io/blob/master/Mazinger.jpg) and [MB_Gundam](https://github.com/bruinxiong/xionglin.github.io/blob/master/MB_Gundam.jpg) so on), LEGO and Cooking.
-
-## Contact:
-
-**Email:** lin.xiong@smartic.ai, bruinxiong@me.com, bruinxiongmac@gmail.com
-
-**Phone:** +86 18092636295, +1 669 454 6698 
-
-**WeChat:** bruinxiongmac
-
-**Address:** SooChow, China.
+**Address:** Xi'an, Shannxi, China.
 
 <img src="exp5_rgb_orbit-mild_.gif" width="50%" height="50%" align='left' style='width:270px;height:480px'/>
 <img src="optimusprime8-rgb-short.gif" width="50%" height="50%" align='middle' style='width:270px;height:480px'/>
@@ -79,50 +60,4 @@ Photography, [Travel](https://github.com/bruinxiong/xionglin.github.io/blob/mast
 
 **Mar 2025:** One paper titled with **Cross-Rejective Open-Set SAR Image Registration** is accepted by ***CVPR 2025***.
 
-**Sep 2023:** One paper titled with **RGMIL: Guide Your Multiple-Instance Learning Model with Regressor** is accepted by ***NeurIPS 2023***. 
 
-**Mar 2023:** One paper titled with **Surrogate-assisted multi-objective optimization via knee-oriented Pareto front estimation** is accepted by **Swarm and Evolutionary Computation**.
-
-**Jan 2023:** One paper titled with **Adaptive Self-Supervised SAR Image Registration With Modifications of Alignment Transformation** is accepted by **TGRS**.
-
-**Jun 2021:** One [paper](https://github.com/bruinxiong/xionglin.github.io/blob/master/Multi-scale_Fused_SAR_Image_Registration_based_on_Deep_Forest_Remote_Sensing_2021.pdf) titled with **Multi-scale Fused SAR Image Registration based on Deep Forest** is accepted by **Remote Sensing**.
-
-**Aug 2020:** To be a **member of the Program Committee (PC)** for **AAAI 2021**, the 35th AAAI Conference on Artificial Intelligence, Feb 2-9 in a virtual conference.
-
-**Oct 2019:** One [paper](https://github.com/bruinxiong/xionglin.github.io/blob/master/Recognizing_Profile_Faces_by_Imagining_Frontal_View_IJCV_2019.pdf) titled with **Recognizing Profile Faces by Imagining Frontal View** is accepted by **IJCV**.
-
-**Aug 2019:** To be a **member of the Program Committee (PC)** for **AAAI 2020**, the 34th AAAI Conference on Artificial Intelligence, Feb 7-12 in New York, NY, USA.
-
-**Nov 2018:** My former employer, **Panasonic R&D Center Singapore**, has just achieved the **[No.6](https://github.com/bruinxiong/xionglin.github.io/blob/master/NIST_PSL_01.jpg)** in Wild Setting of fierce **NIST Face Recognition Vendor Test (FRVT) 1:1 Verification**. It proves that our previous strategies for wild setting are shown to be correct. This score is the same as the No.1 of three months ago. Many competitors get large improvement. It is a fiercely competitive battle field of face recognition. Congratulations, my friends and the former boss **[Ms. Shen](https://www.linkedin.com/in/jane-shen-b93a266b/?originalSubdomain=sg)**. More information can be found in the offical **[report](https://www.nist.gov/system/files/documents/2019/01/29/frvt_report_2019_01_29.pdf)**. 
-
-**Nov 2018:** One [paper](https://arxiv.org/pdf/1809.00338.pdf) titled with **Look Across Elapse: Disentangled Representation Learning and
-Photorealistic Cross-Age Face Synthesis for Age-Invariant Face Recognition** is accepted by ***AAAI 2019***.
-
-**Aug 2018:** Panasonic releases a news for new facial recognition system ***["FacePRO"](https://www.youtube.com/watch?v=ce1LSxZCK0M)*** integrated with our face recognition algorithm.
-
-**Jul 2018:** One [paper](https://github.com/bruinxiong/xionglin.github.io/blob/master/3D-Aided_Dual-Agent_GANs_for_Unconstrained_Face_Recognition_TPAMI_2018.pdf) titled with **3D-Aided Dual-Agent GANs for Unconstrained Face Recognition** is accepted by **TPAMI**.
-
-**Jun 2018:** We submit our first API (psl) submission to **NIST FRVT 1:1 Verification**, the leaderboard can be found in [here](https://www.nist.gov/programs-projects/face-recognition-vendor-test-frvt-ongoing). We will continue to improve our model in the future, especially for WILD Setting. 
-
-**May 2018:** We release the evaluation [codes](https://github.com/bruinxiong/Evaluation_IJBA) for **IJB-A with open and close protocols**. Anybody can reproduce our results based on single ResNext 152 model.
-
-**Apr 2018:** One [paper](https://www.researchgate.net/publication/324557770_3D-Aided_Deep_Pose-Invariant_Face_Recognition) is accepted by ***IJCAI 2018***.
-
-**Apr 2018:** One [paper](https://www.researchgate.net/publication/324746337_Dual-Mode_Vehicle_Motion_Pattern_Learning_for_High_Performance_Road_Traffic_Anomaly_Detection) is accepted by ***CVPR 2018 Workshop of NVIDIA AI City Challenge***.
-
-**Feb 2018:** One [paper](https://www.researchgate.net/publication/323446132_Towards_Pose_Invariant_Face_Recognition_in_the_Wild) is accepted by ***CVPR 2018***.
-
-**Feb 2018:** Panasonic releases a ***[news,Japanese,](http://news.panasonic.com/jp/press/data/2018/02/jn180220-1/jn180220-1.html)[English](http://news.panasonic.com/global/press/data/2018/02/en180220-3/en180220-3.html?utm_source=domo&utm_medium=webpush&utm_campaign=panasonic-newsroom-global_20180220&utm_content=20180220-1)*** for a pre-release of new product integrated with our face recognition algorithm. ***[News on Youtube 1,](https://www.youtube.com/watch?v=SOTVU3f0xNo&t=9s)[News on Youtube 2,](https://www.youtube.com/watch?v=Z5vxhhM0JGQx)[News on Youtube 3.](https://www.youtube.com/watch?v=J_-iRx7z1qQ)*** 
-
-**Feb 2018:** Our method has achieved ***TAR = 0.959 @ FAR = 0.0001*** for 1:1 verification and ***TPIR = 0.946 @ FPIR = 0.01*** for 1:N open-protocol identification on **IJB-A**. (***Top 1 performance*** in current state-of-the-art methods).
-
-**Jan 2018:** As a Chinese Tech-oriented media, AI Era gave a ***[full interview](https://mp.weixin.qq.com/s/s9H_OXX-CCakrTAQUFDm8g)*** for our NIST IJB-A Face Challenge. Our latest performance of IJB-A will be updated in the next version of our **[arXiv](https://arxiv.org/abs/1704.00438v2)** paper. ***(New update)*** 
-
-**Jul 2017:** We attended [MS-Celeb-1M Large-Scale Face Recognition](http://www.msceleb.org/) with our proposed face recognition [algorithm](http://openaccess.thecvf.com/content_ICCV_2017_workshops/papers/w27/Xu_High_Performance_Large_ICCV_2017_paper.pdf) and archieved No.1 place on Challenge-1 [Random Set and Hard Set](http://www.msceleb.org/leaderboard/iccvworkshop-c1). AI Era gave an [interview](http://www.sohu.com/a/160503484_473283) for this challenge.
-
-**May 2017:** One [paper](http://papers.nips.cc/paper/6612-dual-agent-gans-for-photorealistic-and-identity-preserving-profile-face-synthesis.pdf) is accepted by ***NIPS 2017***.
-
-**May 2017:** Panasonic released a ***[news](http://news.panasonic.com/jp/press/data/2017/05/jn170510-5/jn170510-5.html)*** to introduce our project and report our archievement on IJB-A Face Verification and Identification Challenge. Moreover, ***[CNET Japan](https://japan.cnet.com/article/35100942/)*** also picked up the story.
-
-**Apr 2017:** We proposed Transferred Deep Feature Fusion (TDFF) for face recogntion and obtained **No.1** place on all tracks of National Institute of Standards and Technology (**NIST**) IARPA Janus Benchmark A (
-**IJB-A**) Unconstrained Face Verification and Identification Challenge. Official reports can be found in here: [Identification](https://github.com/bruinxiong/xionglin.github.io/blob/master/IJBA_1N_report.pdf) and [Verification](https://github.com/bruinxiong/xionglin.github.io/blob/master/IJBA_11_report.pdf) 
