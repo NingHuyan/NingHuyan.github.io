@@ -19,7 +19,7 @@
 * 06/2022 - 09/2011: 学士—博士， 西安电子科技大学，陕西西安，中国。
 
 ## 论文发表:
-* **Ning Huyan**, Dou Quan, Xiangrong Zhang, Xuefeng Liang, Jocelyn Chanussot, Licheng Jiao. **Unsupervised outlier detection using memory and contrastive learning**. EEE Transactions on Image Processing 31, 6440-6454. 2022/10/10.
+* **Ning Huyan**, Dou Quan, Xiangrong Zhang, Xuefeng Liang, Jocelyn Chanussot, Licheng Jiao. **Unsupervised outlier detection using memory and contrastive learning**. IEEE Transactions on Image Processing 31, 6440-6454. 2022/10/10.
   
 <p align="center">
  <img src="MCOD.png" width="50%" height="50%"/>
